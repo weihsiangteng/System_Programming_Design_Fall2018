@@ -1,8 +1,8 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: System_Programming_Design_Fall2018
+description: "NTU System Programming Design Fall 2018 Course Notes"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
+  name: "Wei-Hsiang Teng"
+  email: "f96222069@gmail.com"
   url: "https://ashishchaudhary.in/hacker-blog"
 
 baseurl: /
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
+owner : "Wei-Hsiang Teng"
 year : "2020"
